@@ -1,0 +1,3 @@
+- ♻ Hi, I’m @szabixd 🐱‍👤💥
+- 👀 I’m interested in Backend ---> C#
+- 🌱 I’m currently learning Frontend, Backend, MySQL, HTML, C# (WPF, Console), Nodejs, Javascript
