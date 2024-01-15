@@ -1,4 +1,4 @@
-Hi, I'm Szabolcs Hulvej, you can find me as @szabixd. ❤
+Hi, I'm Szabolcs Hulvej, you can find me as [@szabixd](https://github.com/szabixd). ❤
 
 My main area of interest is the Frontend Design part, which of course is the first thing the user encounters. I deal with frontend design in C# WPF(Windows Presentation Foundation) applications and websites, i.e. HTML. I also integrate Javascript and CSS animations and other functions and adapt them to code. Some of my works can be viewed on my website in Publikus Repositori. 
 
