@@ -1,3 +1,8 @@
-- ♻ Hi, I’m @szabixd 🐱‍👤💥
-- 👀 I’m interested in Frontend ---> C#, HTML
-- 🦎 I’m currently learning Frontend, Backend, MySQL, HTML, C# (WPF, Console), Nodejs, Javascript
+Hi, I'm Szabolcs Hulvej, you can find me as @szabixd. ❤
+
+My main area of interest is the Frontend Design part, which of course is the first thing the user encounters. I deal with frontend design in C# WPF(Windows Presentation Foundation) applications and websites, i.e. HTML. I also integrate Javascript and CSS animations and other functions and adapt them to code. Some of my works can be viewed on my website in Publikus Repositori. 
+
+Take a look at it.❤
+
+Our first major project is ByteBag, which we are working on with [@csuszy.](https://github.com/csuszy).
+Repository for it can be found here: ~ under work. 🛠
