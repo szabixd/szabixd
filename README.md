@@ -4,7 +4,7 @@ My main area of interest is the Frontend Design part, which of course is the fir
 
 Take a look at it. ❤
 
-Our first major project is "ByteBag", which we are working on with [@csuszy.](https://github.com/csuszy).
+My first major project is "ByteBag", which we are working on with [@csuszy.](https://github.com/csuszy).
 
 
 Repository for it can be found here: ~ UNDER WORK. 🛠
