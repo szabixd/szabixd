@@ -7,4 +7,4 @@ Take a look at it. ❤
 My first major project is "ByteBag", which we are working on with [@csuszy.](https://github.com/csuszy).
 
 
-Repository for it can be found here: ~ UNDER WORK. 🛠
+Repository for it can be found here: ~ [ByteBag](https://github.com/szabixd/ByteBag-WPF-Application) 🛠
